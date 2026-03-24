@@ -3,3 +3,5 @@ description: Filter your LinkedIn feed by language and hide promoted posts.
 theme: minima
 url: "https://amihacked.github.io"
 baseurl: "/noise-off-linkedin-site"
+header_pages:
+  - PRIVACY-POLICY.md

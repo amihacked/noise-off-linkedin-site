@@ -1,3 +1,8 @@
+---
+layout: default
+title: Privacy Policy
+---
+
 # Privacy Policy — NoiseOff for LinkedIn
 
 **Effective date:** 2026-03-23
