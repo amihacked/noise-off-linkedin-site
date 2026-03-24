@@ -94,11 +94,8 @@ Found a bug or have a suggestion?
 Have a feature request, found a bug, or just want to share
 how NoiseOff is working for you?
 
-We'd love to hear from you:
-
 - 📧 **Email:** [noiseoff@amihacked.com](mailto:noiseoff@amihacked.com)
 - 🐛 **Bug reports:** [Open an issue](https://github.com/amihacked/noise-off-linkedin-site/issues)
-- 💬 **General feedback:** [noiseoff@amihacked.com](mailto:noiseoff@amihacked.com)
 
 Your feedback directly shapes the next version of NoiseOff.
 
